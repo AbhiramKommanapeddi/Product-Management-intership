@@ -1,0 +1,34 @@
+Task ID,Task Name,Team,Assigned To,Start Date,Due Date,Status,Priority,Progress %,Notes
+T001,Market Research Analysis,Editorial,Sarah Johnson,2025-06-26,2025-07-03,In Progress,High,60,Competitor analysis ongoing
+T002,Target Audience Definition,Editorial,Mike Chen,2025-06-26,2025-07-03,Completed,High,100,Demographics finalized
+T003,Book Outline Creation,Editorial,Sarah Johnson,2025-07-03,2025-07-10,Not Started,High,0,Waiting on research completion
+T004,Stakeholder Review Meeting,Editorial,Project Manager,2025-07-10,2025-07-17,Not Started,Critical,0,Schedule with board members
+T005,Writing Schedule Planning,Editorial,Sarah Johnson,2025-07-17,2025-07-24,Not Started,Medium,0,Resource allocation needed
+T006,First Chapter Draft,Editorial,Content Writer,2025-07-24,2025-08-07,Not Started,High,0,Template to be provided
+T007,Medical Expert Interview,Editorial,Research Team,2025-08-07,2025-08-21,Not Started,High,0,Contact list prepared
+T008,Survivor Story Collection,Editorial,Community Manager,2025-08-14,2025-08-28,Not Started,Medium,0,Jarurat Care network
+T009,Chapter Review Process,Editorial,Senior Editor,2025-08-28,2025-09-11,Not Started,High,0,Quality standards defined
+T010,Developmental Edit Start,Editorial,Lead Editor,2025-09-11,2025-09-25,Not Started,Critical,0,Editor briefing required
+T011,Content Structure Review,Editorial,Sarah Johnson,2025-09-25,2025-10-02,Not Started,High,0,Narrative flow check
+T012,Copy Edit Round 1,Editorial,Copy Editor,2025-10-02,2025-10-16,Not Started,High,0,Style guide prepared
+T013,Proofreading Round 1,Editorial,Proofreader,2025-10-16,2025-10-23,Not Started,Medium,0,Error tracking sheet
+T014,Medical Accuracy Review,Editorial,Medical Consultant,2025-10-23,2025-10-30,Not Started,Critical,0,Healthcare professional
+T015,Final Edit Approval,Editorial,Project Manager,2025-10-30,2025-11-06,Not Started,Critical,0,Stakeholder sign-off
+D001,Cover Concept Development,Design,Art Director,2025-11-06,2025-11-13,Not Started,High,0,Brand alignment check
+D002,Cover Design Mockups,Design,Graphic Designer,2025-11-13,2025-11-20,Not Started,High,0,Multiple variations
+D003,Cover Testing & Feedback,Design,Marketing Team,2025-11-20,2025-11-27,Not Started,Medium,0,Focus group setup
+D004,Interior Layout Design,Design,Layout Designer,2025-11-13,2025-11-27,Not Started,High,0,Typography selection
+D005,Image Sourcing & Editing,Design,Graphic Designer,2025-11-20,2025-12-04,Not Started,Medium,0,Copyright clearance
+D006,Print Format Preparation,Design,Production Specialist,2025-11-27,2025-12-04,Not Started,High,0,Print specifications
+D007,Digital Format Optimization,Design,Digital Specialist,2025-12-04,2025-12-11,Not Started,High,0,E-reader compatibility
+D008,Final Design Approval,Design,Project Manager,2025-12-11,2025-12-18,Not Started,Critical,0,Quality check complete
+M001,Instagram Strategy Development,Marketing,Social Media Manager,2025-06-26,2025-07-10,In Progress,High,40,Content calendar draft
+M002,Influencer Outreach List,Marketing,PR Specialist,2025-07-10,2025-07-24,Not Started,Medium,0,Database compilation
+M003,Email Campaign Setup,Marketing,Email Marketing Specialist,2025-07-24,2025-08-07,Not Started,High,0,List segmentation
+M004,Press Release Writing,Marketing,PR Specialist,2025-08-07,2025-08-21,Not Started,Medium,0,Media contact list
+M005,Launch Event Planning,Marketing,Event Coordinator,2025-08-21,2025-09-11,Not Started,High,0,Venue booking needed
+M006,Social Media Content Creation,Marketing,Content Creator,2025-09-11,2025-10-02,Not Started,High,0,Visual assets required
+M007,Pre-launch Campaign,Marketing,Marketing Manager,2025-10-02,2025-11-06,Not Started,Critical,0,Budget allocation
+M008,Launch Week Campaign,Marketing,Marketing Team,2025-12-18,2025-12-25,Not Started,Critical,0,Multi-platform coordination
+M009,Post-launch Analysis,Marketing,Analytics Specialist,2025-12-25,2026-01-08,Not Started,Medium,0,KPI tracking setup
+M010,Ongoing Promotion Strategy,Marketing,Marketing Manager,2026-01-08,2026-02-01,Not Started,Medium,0,Long-term planning
